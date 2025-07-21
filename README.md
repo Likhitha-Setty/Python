@@ -2,7 +2,7 @@
 
 This repository contains two simple Python programs that demonstrate user input, arithmetic operations, string concatenation, and output formatting. These scripts are part of Assignment 1 for Module 2: Basic Python Concepts.
 
-Program 1 – Basic Mathematical Operations (`program-1.py`)
+## Program 1 – Basic Mathematical Operations (`program-1.py`)
 
 ### Description:
 This program:
